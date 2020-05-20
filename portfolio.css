@@ -1,0 +1,35 @@
+body{
+    background-image: url(images/392393.jpg);
+    background-size: 100% 100%;
+}
+.copy{
+    color:aliceblue;
+    font-family: cursive;
+    font-size: 50px;
+    text-align: center;
+    
+}
+.tip{
+    color: aliceblue;
+    font-size: 21px;
+}
+.roll{
+    color: black;
+}
+
+p{
+    text-align: center;
+    color: aliceblue;
+}
+.pd{
+    color: black;
+    font-size: 26px;
+    
+}
+.op{
+    font-size: 20px;
+}
+ul{
+    list-style-type: none;
+    text-align: center;
+}
